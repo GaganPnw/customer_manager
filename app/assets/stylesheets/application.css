@@ -13,3 +13,26 @@
  *= require_tree .
  *= require_self
  */
+ /* app/assets/stylesheets/customer.scss */
+
+/* Style the customer partial */
+.customer {
+  background-color: #f2f2f2;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.customer h2 {
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+
+.customer p {
+  font-size: 14px;
+  color: #555555;
+  margin-bottom: 3px;
+}
+
+/* Add any other custom styles you want */
+
+
